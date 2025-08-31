@@ -140,7 +140,7 @@
     "webpack-cli": "^5.1.1",
     "webpack-dev-server": "^4.15.0",
     "webpack-merge": "^5.9.0",
-    "workbox-webpack-plugin": "^6.5.4",
+    "workbox-webpack-plugin": "^7.0.0",
     "yarn-deduplicate": "^6.0.2"
   },
   "dependencies": {
@@ -156,7 +156,7 @@
     "react-use": "^17.4.0",
     "react-visibility-sensor": "^5.0.2",
     "webpack-pwa-manifest": "^4.3.0",
-    "workbox-window": "^6.5.4"
+    "workbox-window": "^7.0.0"
   },
   "resolutions": {
     "sitemap-static/minimist": "1.2.5",
